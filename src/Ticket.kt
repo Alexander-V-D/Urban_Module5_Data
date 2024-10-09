@@ -1,0 +1,1 @@
+data class Ticket(val film: String, val seat: Int, val time: String, var isSold: Boolean)

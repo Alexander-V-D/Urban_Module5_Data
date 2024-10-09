@@ -1,0 +1,1 @@
+data class Session(val film: Film, val time: String)
